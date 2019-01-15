@@ -1,0 +1,61 @@
+<tiles>
+        <tile id="=" image="res/GreenBlock.png" shape="BLOCK" />
+        <tile id="#" image="res/GreenBlock.png" shape="BLOCK" />
+        <tile id="\" image="res/GreenBlockslant.png" shape="RIGHTSLOPE" />
+        <tile id="p" image="res/player_start.png" shape="BLOCK" />/>
+        <tile id="*" image="res/levelChange.png" shape="BLOCK" nextLevel="2" />
+        <tile id="h" image="res/honeypot.png" shape="BLOCK"  />
+        <tile id="r" image="res/royaljelly.png" shape="BLOCK"  />
+        <tile id="t" image="res/honey_token.png" shape="BLOCK"  />
+        <tile id="w" image="res/HiveBlock.png" shape="BLOCK" />
+        <tile id="b" image="res/GreenBlock2bottom.png" shape="BLOCK"/>
+        <tile id="s" image="res/GreenBlockslant.png" shape="BLOCK"/>
+        <tile id="a" image="res/HiveBlockslant.png" shape="BLOCK"/>
+        <tile id="x" image="res/GreenBlock2left.png" shape="LEFTSLOPE"/>
+        <tile id="c" image="res/GreenBlock2right.png" shape="BLOCK"/>
+        <tile id="d" image="res/GreenBlockleft.png" shape="BLOCK"/>
+        <tile id="v" image="res/GreenBlockright.png" shape="BLOCK"/>
+        <tile id="l" image="res/HiveBlockslant.png" shape="BLOCK"/>  
+		<tile id="u" image="res/message_token.png" shape="BLOCK" />       
+		<tile id="n" image="res/GreenBlock2bottom.png" shape="BLOCK" />
+		<tile id="j" image="res/GreenBlock2middle.png" shape="BLOCK" />
+		<tile id="o" image="res/GreenBlock3midleft.png" shape="BLOCK" />    
+		<tile id="i" image="res/GreenBlock3midright.png" shape="BLOCK" />
+		<tile id="1" image="res/queen_anim.png" shape="BLOCK" />
+		<tile id="2" image="res/Beetle am.png" shape="BLOCK" />
+		<tile id="3" image="res/talk_bee.png" shape="BLOCK" />
+		<tile id="4" image="res/npc_bee.png" shape="BLOCK" />
+		<tile id="6" image="res/guard_bee.png" shape="BLOCK" />
+		<tile id="5" image="res/zombie_bee.png" shape="BLOCK" />
+		<tile id="7" image="res/Y-beetle walking.png" shape="BLOCK" />
+		<tile id="8" image="res/G-beetle walking.png" shape="BLOCK" />
+		<tile id="9" image="res/G-beetle walking.png" shape="BLOCK" />
+        <tile id="t" image="res/tree_token.png" shape="BLOCK"/>
+        <tile id="k" image="res/YellowBlockbottom.png" shape="BLOCK"/>  
+		<tile id="m" image="res/YellowBlockbottomleft.png" shape="BLOCK" />       
+		<tile id="e" image="res/YellowBlockbottomright.png" shape="BLOCK" />
+		<tile id="q" image="res/YellowBlockmiddle.png" shape="BLOCK" />
+		<tile id="z" image="res/YellowBlockmiddleleft.png" shape="BLOCK" />    
+		<tile id="g" image="res/YellowBlockmiddleright.png" shape="BLOCK" />
+		<tile id="]" image="res/YellowBlockslantleft.png" shape="LEFTSLOPE" />
+		<tile id="[" image="res/YellowBlockslantright.png" shape="RIGHTSLOPE" />
+		<tile id="{" image="res/YellowBlocktopleft.png" shape="BLOCK" />		
+		<tile id="@" image="res/YellowBlocktopmiddle.png" shape="BLOCK" />
+		<tile id="y" image="res/YellowBlocktopright.png" shape="BLOCK" />
+		<tile id="K" image="res/BrownBottom.png" shape="BLOCK"/>  
+		<tile id="M" image="res/BrownBottomLeft.png" shape="BLOCK" />       
+		<tile id="E" image="res/BrownBottomRight.png" shape="BLOCK" />
+		<tile id="Q" image="res/BrownMiddle.png" shape="BLOCK" />
+		<tile id="Z" image="res/BrownMiddleLeft.png" shape="BLOCK" />    
+		<tile id="G" image="res/BrownMiddleRight.png" shape="BLOCK" />
+		<tile id="A" image="res/BrownLeft.png" shape="LEFTSLOPE" />
+		<tile id="B" image="res/BrownRight.png" shape="RIGHTSLOPE" />
+		<tile id="C" image="res/BrownTopLeft.png" shape="BLOCK" />		
+		<tile id="D" image="res/BrownMiddle.png" shape="BLOCK" />
+		<tile id="E" image="res/BrownTopRight.png" shape="BLOCK" />
+	    <tile id="F" image="res/BranchRight.png" shape="BLOCK" />
+		<tile id="G" image="res/Branch.png" shape="BLOCK" />
+		<tile id="R" image="res/Resinbottle.png" shape="BLOCK" />
+		<tile id="H" image="res/BigBranchRight.png" shape="BLOCK" />
+		<tile id="I" image="res/BigBranchLeft.png" shape="BLOCK" />
+</tiles>

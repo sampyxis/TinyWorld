@@ -1,0 +1,40 @@
+== - GreenBlock
+=# - GreenBlock
+=/ RightSlope
+=\ LeftSlope
+=p - Player
+=* LevelChange
+10 =c greenblock2right
+11= d greenblockleft
+
+
+1=w hiveblock
+2=a hiveblockslant
+3 =l hiveblock
+5 p playerstart
+6 =# greenlbock
+4 = a HiveBlockSlant
+7=n Greenblock2bottom
+8 =x greenblock2left
+9=j greenblock2middle
+10 =w hiveblock
+11 =d GreenBlockleft
+12 =v greenblockright
+13=\ GreenblockSland
+14=o greenblock3midleft
+15=i greenblock3midright
+16=t HoneyToken
+17=h HoneyPot
+18=r RoyalJelly
+19 =t tree_token.png
+20 =k YellowBlockbottom.png
+21 =m YellowBlockbottomleft.png
+22 = e YellowBlockbottomright.png
+23 =q YellowBlockmiddle.png
+24 = z YellowBlockmiddleleft.png
+25 = g YellowBlockmiddleright.png
+26  = ] YellowBlockslantleft.png
+27= [ YellowBlockslantright.png
+28= { YellowBlocktopleft.png"
+29= @ YellowBlocktopmiddle.png
+30= y YellowBlocktopright.png
